@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import '../css/styles.css';
+import '../css/style.css';
 
 import axios from '../util/axios';
 
