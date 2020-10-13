@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import 'C:/Users/yohel/OneDrive/Documentos/UCR/SemestreVI/Moviles/react/thesimpsons/src/css/style.css';
+import '../css/styles.css';
 
 import axios from '../util/axios';
 
